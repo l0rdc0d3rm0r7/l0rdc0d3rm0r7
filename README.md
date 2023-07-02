@@ -40,20 +40,6 @@
 
 
 
-[![JoshMadakor | YouTube](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg)](https://www.youtube.com/c/RoyalNatangwe){:target="_blank"}
-
-[![JoshMadakor | Twitter](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg)](https://twitter.com/RoyalNatangwe){:target="_blank"}
-
-[![JoshMadakor | LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://linkedin.com/in/joshmadakor){:target="_blank"}
-
-[![JoshMadakor | Instagram](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg)](https://www.instagram.com/RoyalNatangwe/){:target="_blank"}
-
-
-
-
-
-
-
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
