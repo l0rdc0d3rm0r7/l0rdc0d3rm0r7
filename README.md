@@ -40,21 +40,14 @@
 
 
 
-<a href="https://www.youtube.com/c/RoyalNatangwe" target="_blank">
-  <img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
+[![JoshMadakor | YouTube](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg)](https://www.youtube.com/c/RoyalNatangwe){:target="_blank"}
 
-<a href="https://twitter.com/RoyalNatangwe" target="_blank">
-  <img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
+[![JoshMadakor | Twitter](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg)](https://twitter.com/RoyalNatangwe){:target="_blank"}
 
-<a href="https://linkedin.com/in/joshmadakor" target="_blank">
-  <img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+[![JoshMadakor | LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://linkedin.com/in/joshmadakor){:target="_blank"}
 
-<a href="https://www.instagram.com/RoyalNatangwe/" target="_blank">
-  <img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+[![JoshMadakor | Instagram](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg)](https://www.instagram.com/RoyalNatangwe/){:target="_blank"}
+
 
 
 
