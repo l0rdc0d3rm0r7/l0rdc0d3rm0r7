@@ -41,7 +41,7 @@
 
 
 
-[![JoshMadakor | YouTube](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg)](https://www.youtube.com/c/RoyalNatangwe){:target="_blank" rel="noopener"}
+[go][JoshMadakor | YouTube](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg)](https://www.youtube.com/c/RoyalNatangwe){:target="_blank" rel="noopener"}
 
 [![JoshMadakor | Twitter](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg)](https://twitter.com/RoyalNatangwe){:target="_blank"}
 
