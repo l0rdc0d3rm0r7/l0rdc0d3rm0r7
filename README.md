@@ -1,4 +1,4 @@
-<h1>Hi, I'm Elton! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Elton! <br/><a href="https://github.com/l0rdc0d3rm0r7">Programmer</a>, <a href="https://www.youtube.com/c/royalnatangwe">YouTuber</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
@@ -36,7 +36,6 @@
 [twitter]: https://twitter.com/RoyalNatangwe
 [youtube]: https://www.youtube.com/c/RoyalNatangwe
 [instagram]: https://www.instagram.com/RoyalNatangwe/
-[linkedin]: https://linkedin.com/in/joshmadakor
 
 
 
